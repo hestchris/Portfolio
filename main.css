@@ -2,8 +2,18 @@ body {
 	background: lightgreen;
 }
 
+img {
+	height: 350px;
+	width: 650px;
+
+}
+
 #banner {
 	text-align: center;
 	font-weight: bold;
 	font-size: 45px;
+}
+
+.h1 {
+	font: italic;
 }
