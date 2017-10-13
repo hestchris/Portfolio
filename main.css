@@ -1,19 +1,39 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+
 body {
-	background: lightgreen;
-}
-
-img {
-	height: 350px;
-	width: 650px;
+	background: gray;
 
 }
+
+/*-----Headings/Titles-----*/
+
 
 #banner {
+	background-size: cover;
 	text-align: center;
-	font-weight: bold;
-	font-size: 45px;
+	font-size: 50px;
+	font: bold;
 }
 
-.h1 {
-	font: italic;
+/*-----Accordion data-----*/
+
+.card {
+	background-color: darkgray;
 }
+
+/*-----Slide Show-----*/
+
+
+	
+
+
+
+
+
+
+
+
